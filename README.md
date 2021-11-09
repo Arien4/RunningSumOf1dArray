@@ -1,0 +1,2 @@
+# RunningSumOf1dArray
+leetcode
