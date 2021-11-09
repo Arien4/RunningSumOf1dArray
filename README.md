@@ -1,5 +1,5 @@
 # RunningSumOf1dArray
-The LeetCode [RunningSumOf1dArray](https://github.com/Arien4/RunningSumOf1dArray.git) problem
+The LeetCode [RunningSumOf1dArray](https://leetcode.com/problems/running-sum-of-1d-array/) problem
 
 >Given an array nums. We define a running sum of an array as runningSum[i] = sum(nums[0]…nums[i]).
 >Return the running sum of nums.
